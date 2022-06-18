@@ -1,7 +1,7 @@
 # Mini-Svelte-Projects
 Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by building some of the most popular front end projects in SvelteJS. 
 
-Go and choose your BEST SvelteJS project for 2022!
+Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/Mini-Svelte-Projects/).
 
 ## Project 1:
 
