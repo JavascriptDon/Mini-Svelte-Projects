@@ -19,7 +19,7 @@
 git clone https://github.com/<your-github-username>/Mini-Svelte-Projects
 ```
 
-**3.** Navigate to the newly created Social-Media-Blocks-Extension project directory:
+**3.** Navigate to the newly created Mini-Svelte-Projects project directory:
 
 ```bash
 cd Mini-Svelte-Projects
@@ -28,7 +28,7 @@ cd Mini-Svelte-Projects
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/JavascriptDon/Mini-Svelte-Projects
+git remote add upstream https://github.com/JavascriptDon/Mini-Svelte-Projects.git
 ```
 
 **5.** Create a new branch:
