@@ -1,9 +1,9 @@
 # Mini-Svelte-Projects
 Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by building some of the most popular front end projects in SvelteJS. 
 
-Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/Mini-Svelte-Projects/).
+Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/Mini-Svelte-Projects/). 👇
 
-## Project 1:
+## 🛠️ Project 1:
 
 - Title: Simple Snake Game
 - Technologies: Html, CSS and Javascript. 
@@ -12,7 +12,7 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 
 <img width="625" alt="snake" src="https://user-images.githubusercontent.com/101202952/170490043-711b5c48-f058-49ae-94ee-0ccc3b5e2c18.PNG">
 
-## Project 2: 
+## 🛠️ Project 2: 
 
 - Title: Svelte-Todo-Level1
 - Technologies: HTML, CSS and JavaScript.
@@ -22,7 +22,7 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 <img width="625" alt="snake" src="https://user-images.githubusercontent.com/101202952/170490618-124b4b98-3be1-431b-8aa0-5b17f70a6873.PNG">
 
 
-## Project 3: 
+## 🛠️ Project 3: 
 
 - Title: Svelte-Todo-Level2
 - Technologies: HTML, CSS and JavaScript. 
@@ -33,7 +33,7 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 <img width="625" alt="snake" src="https://user-images.githubusercontent.com/101202952/170491125-d6566b12-0a11-44ed-8d37-f8f8eb6ee1c4.PNG">
 
 
-## Project 4: 
+## 🛠 Project 4: 
 
 - Title: Tic Tac Toe 
 - Technologies: HTML, CSS and JavaScript. 
@@ -42,7 +42,7 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 
 <img width="625" alt="snake" src="https://user-images.githubusercontent.com/101202952/170499370-3fd3b1ca-8785-4599-84bc-7bb28e546da2.PNG">
 
-## Project 5:
+## 🛠️ Project 5:
 
 - Title: Tic Tac Toe Against A Computer. 
 - Technologies: HTML, CSS and JavaScript.
@@ -51,7 +51,7 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 
 <img width="625" alt="snake" src="https://user-images.githubusercontent.com/101202952/170498973-4fec4696-c2f6-4df6-99e4-3f325e05d6ae.PNG">
 
-## Project 6:
+## 🛠️ Project 6:
 
 - Title: Svelte Crypto App
 - Technologies: HTML, CSS and JavaScript.
@@ -60,10 +60,10 @@ Go and choose your BEST SvelteJS project [here](https://javascriptdon.github.io/
 
 ![image](https://user-images.githubusercontent.com/101202952/171014450-4c277d60-11a8-4358-ae32-2c9be2b602d8.png)
 
-## License: 📝
+## 🛡️ License: 
 This project is under the MIT License (MIT). See the LICENSE for more information.
 
-## Contributions:
+## 👨‍💻 Contributions:
 Contributions are always welcome...
 
 - Fork the repository
